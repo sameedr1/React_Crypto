@@ -38,8 +38,8 @@ export default function Home() {
               </Link>
             </div>
             <div className={styles.card}>
-              <Link href="/coinsCategories">
-                <a>Coin Categories</a>
+              <Link href="https://github.com/sameedr1/React_Crypto">
+                <a>Github</a>
               </Link>
             </div>
           </div>

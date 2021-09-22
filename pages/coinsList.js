@@ -6,9 +6,10 @@ const coinGeckoClient = new CoinGecko();
 
 export default function Home(props) {
   const { data } = props.result;
+  console.log(data)
 
   return (
-    
+
     <body>
       <nav>
       <div >
